@@ -2,7 +2,7 @@
 # PKGBUILD per il pacchetto core-theme
 
 pkgname=core-gtk-theme
-pkgver=1.8
+pkgver=1.9
 pkgrel=1
 pkgdesc="official Gnome theme Core Linux"
 arch=('any')
